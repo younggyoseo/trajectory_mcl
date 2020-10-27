@@ -10,7 +10,7 @@ Trajectory-wise multiple choice learning (T-MCL) learns a multi-headed dynamics 
 To effectively utilize specialized prediction heads, prediction heads are adaptively selected at evaluation time.
 
 - [Project webpage](https://sites.google.com/view/trajectory-mcl)
-- [Paper]()
+- [Paper](https://arxiv.org/abs/2010.13303)
 
 ## Instructions
 
